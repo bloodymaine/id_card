@@ -67,6 +67,7 @@ class _CharmaineCachoState extends State<CharmaineCacho> {
                   Text('San Agustin Sur Arayat Pampanga'),
                 ],
               ),
+              
               SizedBox(height: 30,),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
